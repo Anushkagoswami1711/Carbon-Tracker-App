@@ -53,5 +53,6 @@ The app features:
 
 **Anushka Goswami**  
 BTech CSE Student | Cybersecurity Aspirant  
-[LinkedIn](https://linkedin.com/in/YOURID)
+📫 Let's connect: [![LinkedIn](https://www.linkedin.com/in/anushka-goswami-0a1889304/)
+
 
