@@ -32,6 +32,10 @@ The app features:
 ---
 
 ## 📸 Screenshots
+## 📸 Screenshot
+
+![Dashboard Screenshot](https://github.com/Anushkagoswami1711/Carbon-Tracker-App/blob/main/Screenshot%202025-07-19%20064226.png?raw=true)
+
 
 
 
